@@ -52,12 +52,12 @@ Too high! Try again.
 Enter your guess: 63
 Congratulations! You've guessed the number!
 
-Contributing
+## Contributing
 
 Contributions are welcome! If you want to improve the game or fix bugs, please:
 
-Fork the repository.
+1. Fork the repository.
 
-Create a new branch for your feature or bugfix.
+2. Create a new branch for your feature or bugfix.
 
-Submit a pull request with a detailed explanation of your changes.
+3. Submit a pull request with a detailed explanation of your changes.
