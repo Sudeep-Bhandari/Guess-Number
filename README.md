@@ -37,8 +37,18 @@ cd Guess-Number
 
 4. If incorrect, keep guessing until you succeed or run out of attempts (if a limit is set).
 
-# Example Output
+## Contributing
 
+Contributions are welcome! If you want to improve the game or fix bugs, please:
+
+1. Fork the repository.
+
+2. Create a new branch for your feature or bugfix.
+
+3. Submit a pull request with a detailed explanation of your changes.
+
+# Example Output
+```bash
 Welcome to the Guess the Number Game!
 I'm thinking of a number between 1 and 100.
 Can you guess what it is?
@@ -52,12 +62,3 @@ Too high! Try again.
 Enter your guess: 63
 Congratulations! You've guessed the number!
 
-## Contributing
-
-Contributions are welcome! If you want to improve the game or fix bugs, please:
-
-1. Fork the repository.
-
-2. Create a new branch for your feature or bugfix.
-
-3. Submit a pull request with a detailed explanation of your changes.
