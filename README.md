@@ -18,13 +18,13 @@ To run this game, you need:  Python 3.x installed on your system.
 
 ## Installation
 
-Clone this repository to your local machine:
+1. Clone this repository to your local machine:
+    ```bash
+    git clone https://github.com/Sudeep-Bhandari/Guess-Number.git
 
-git clone https://github.com/Sudeep-Bhandari/Guess-Number.git
-
-Navigate to the project directory:
-
-cd Guess-Number
+2. Navigate to the project directory:
+    ```bash
+    cd Guess-Number
 
 
 # Usage
@@ -36,6 +36,7 @@ cd Guess-Number
 3. The program will tell you if your guess is too high, too low, or correct.
 
 4. If incorrect, keep guessing until you succeed or run out of attempts (if a limit is set).
+   
 
 ## Contributing
 
