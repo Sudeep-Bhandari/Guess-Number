@@ -11,6 +11,7 @@ This is a simple Python-based "Guess the Number" game. In this game, the program
 3. Feedback to guide the player (e.g., "Too High", "Too Low").
 
 4. Option to set the number of attempts or play until the number is guessed correctly.
+   
 
 ## Prerequisites
 
@@ -25,7 +26,6 @@ To run this game, you need:  Python 3.x installed on your system.
 2. Navigate to the project directory:
     ```bash
     cd Guess-Number
-
 
 # Usage
 
